@@ -12,4 +12,4 @@ Com esses dois aplicativos instalados, os seguintes passos serão seguidos:
 - Faça o DownLoad do seguinte repositório [PyGnome](https://github.com/NOAA-ORR-ERD/PyGnome) , descompacte a pasta e adicione na pasta deste repositório 
 -  Crie um ambiente virtual pelo terminal do anaconda usando o seguinte comando:
 
-'$ conda create -n gnome python=3.12 '
+` $ conda create -n gnome python=3.12 `
