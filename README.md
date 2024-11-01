@@ -26,9 +26,7 @@ Com esses dois aplicativos instalados, os seguintes passos serão seguidos:
 
 ` conda install --file conda_requirements.txt `
 
-- Ainda nesta pasta, rode o PyGnome, com o seguinte comando: 
 
-`python setup setup_legacy `
 
 
 Após todos os comandos, o pygnome deverá estar rodando corretamente no ambiente virtual. Agora é necessário fazer a ativação do ambiente virtual no código do matlab.
